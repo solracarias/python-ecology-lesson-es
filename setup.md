@@ -53,7 +53,7 @@ mientras que Miniconda no lo hace.
 
 ### Instalación de **Anaconda**
 
-**Anaconda** te instalará los paquetes.
+**Anaconda** te instalará los paquetes requeridos.
 
 #### Descarga e instala **Anaconda**
 
@@ -72,12 +72,9 @@ conda install -c conda-forge plotnine
 
 ### Instalación de **Miniconda**
 
-Miniconda is a "light" version of Anaconda. If you install and use Miniconda
-you will also need to install the workshop packages.
-
 **Miniconda** es una versión "ligera" de **Anaconda**.
-Si instalas y usas **Miniconda**,
-también necesitará instalar los paquetes del taller.
+Si instalas usando **Miniconda**,
+también necesitarás instalar los otros paquetes requeridos para este taller.
 
 #### Descarga e instala **Miniconda**
 
